@@ -3,11 +3,11 @@
 Se nos ha mandado la tarea de buscar información sobre “El Pozo”, así que vamos a seguir unas pautas con las que vamos a llevar a cabo en análisis de la empresa
 
 ## Índice
-1. [Información Whois] (#id1)
-2. [Servidores DNS] (#id2)
-3. [Servidores de Correo] (#id3)
-4. [Subdominios] (#id4)
-5. [Información adicional] (#id5)
+1. [Información Whois](#id1)
+2. [Servidores DNS](#id2)
+3. [Servidores de Correo](#id3)
+4. [Subdominios](#id4)
+5. [Información adicional](#id5)
 
 ## Información Whois<a name="id1"></a>
 
